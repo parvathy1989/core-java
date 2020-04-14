@@ -10,6 +10,7 @@ public class Sample {
 		int b=5;
 		int sum=a+b;
 		System.out.println("The sum is  "+sum);
+		System.out.println("parvathy");
 
 	}
 	}
